@@ -1,8 +1,9 @@
+currently running 
 Manmohan Memorial Polytechnic 
 Budhiganga-4, Morang
 
 DIT Result — Frontend Assessment
-currently running 
+
 url:https://sitalmahato00.github.io/DIT_result/
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
