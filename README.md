@@ -1,4 +1,4 @@
-currently running in:
+Currently running in:
 
 Manmohan Memorial Polytechnic 
 Budhiganga-4, Morang
