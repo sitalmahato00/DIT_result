@@ -10,6 +10,8 @@ url:https://sitalmahato00.github.io/DIT_result/
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/b18ed9c8-4226-4d46-8e3a-405da18f08c4" />
+
 <img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/469a8801-87f4-43d3-90e2-00650e8b1127" />
 
 
